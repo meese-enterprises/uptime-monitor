@@ -12,7 +12,7 @@ sites:
   - name: Capture the Flag
     url: https://aaronmeese.dev
     # TODO: Pick an icon for this URL
-    https://raw.githubusercontent.com/ajmeese7/aaronmeese.com/master/website/src/client/aaron.png
+    icon: https://raw.githubusercontent.com/ajmeese7/aaronmeese.com/master/website/src/client/aaron.png
   - name: KaraOS
     url: https://karameese.com
     icon: https://raw.githubusercontent.com/ajmeese7/karameese.com/master/logo.png
