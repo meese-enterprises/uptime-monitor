@@ -23,7 +23,7 @@ status-website:
   introMessage: This site is used to display a history of the real-time status of public sites falling under the Meese Enterprises umbrella.
   navbar:
     - title: Status
-      href: /
+      href: /$REPO
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
