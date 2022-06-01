@@ -5,12 +5,17 @@ repo: uptime-monitor # The name of this repository
 sites:
   - name: Meese Enterprises
     url: https://meese.enterprises
+    icon: https://raw.githubusercontent.com/meese-enterprises/website/master/logo.png
   - name: MeeseOS
     url: https://aaronmeese.com
+    icon: https://raw.githubusercontent.com/ajmeese7/aaronmeese.com/master/website/src/client/aaron.png
   - name: Capture the Flag
     url: https://aaronmeese.dev
+    # TODO: Pick an icon for this URL
+    https://raw.githubusercontent.com/ajmeese7/aaronmeese.com/master/website/src/client/aaron.png
   - name: KaraOS
     url: https://karameese.com
+    icon: https://raw.githubusercontent.com/ajmeese7/karameese.com/master/logo.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
