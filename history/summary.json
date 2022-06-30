@@ -22,10 +22,10 @@
     "url": "https://aaronmeese.com",
     "icon": "https://raw.githubusercontent.com/ajmeese7/aaronmeese.com/master/website/src/client/aaron.png",
     "slug": "meese-os",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
@@ -33,17 +33,19 @@
     "timeWeek": 341,
     "timeMonth": 296,
     "timeYear": 296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 1
+    }
   },
   {
     "name": "Capture the Flag",
     "url": "https://aaronmeese.dev",
     "icon": "https://raw.githubusercontent.com/ajmeese7/aaronmeese.com/master/website/src/client/aaron.png",
     "slug": "capture-the-flag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 321,
@@ -51,14 +53,16 @@
     "timeWeek": 350,
     "timeMonth": 321,
     "timeYear": 321,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 1
+    }
   },
   {
     "name": "KaraOS",
     "url": "https://karameese.com",
     "icon": "https://raw.githubusercontent.com/ajmeese7/karameese.com/master/logo.png",
     "slug": "kara-os",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +73,8 @@
     "timeWeek": 332,
     "timeMonth": 293,
     "timeYear": 293,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   }
 ]
