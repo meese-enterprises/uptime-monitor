@@ -6,20 +6,20 @@ sites:
   - name: Meese Enterprises
     url: https://meese.enterprises
     icon: https://raw.githubusercontent.com/meese-enterprises/website/master/logo.png
-    maxResponseTime: 3000
+    maxResponseTime: 500
   - name: MeeseOS
     url: https://aaronmeese.com
     icon: https://github.com/meese-enterprises/meeseOS/blob/master/website/src/client/favicon.png
-    maxResponseTime: 5000
+    maxResponseTime: 750
   - name: Capture the Flag
     url: https://aaronmeese.dev
     # TODO: Pick an icon for this URL
     icon: https://github.com/meese-enterprises/meeseOS/blob/master/website/src/client/favicon.png
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: KaraOS
     url: https://karameese.com
     icon: https://github.com/meese-enterprises/karameese.com/blob/master/logo.png
-    maxResponseTime: 5000
+    maxResponseTime: 750
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
