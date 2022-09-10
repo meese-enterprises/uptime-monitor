@@ -9,12 +9,12 @@ sites:
     maxResponseTime: 500
   - name: MeeseOS
     url: https://aaronmeese.com
-    icon: https://github.com/meese-enterprises/meeseOS/blob/master/website/src/client/favicon.png
+    icon: https://github.com/meeseOS/meeseOS/blob/master/website/src/client/favicon.png
     maxResponseTime: 750
   - name: Capture the Flag
     url: https://aaronmeese.dev
     # TODO: Pick an icon for this URL
-    icon: https://github.com/meese-enterprises/meeseOS/blob/master/website/src/client/favicon.png
+    icon: https://github.com/meeseOS/meeseOS/blob/master/website/src/client/favicon.png
     maxResponseTime: 500
   - name: KaraOS
     url: https://karameese.com
