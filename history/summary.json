@@ -4,9 +4,9 @@
     "url": "https://meese.enterprises",
     "icon": "https://raw.githubusercontent.com/meese-enterprises/website/master/logo.png",
     "slug": "meese-enterprises",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 247,
     "timeMonth": 254,
     "timeYear": 282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "MeeseOS",
