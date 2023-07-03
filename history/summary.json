@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 295,
-    "timeDay": 11,
-    "timeWeek": 215,
-    "timeMonth": 276,
+    "time": 294,
+    "timeDay": 145,
+    "timeWeek": 229,
+    "timeMonth": 269,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2022-09-15": 80
@@ -25,15 +25,15 @@
     "icon": "https://github.com/meeseOS/meeseOS/blob/master/website/src/client/favicon.png",
     "slug": "meese-os",
     "status": "up",
-    "uptime": "94.57%",
+    "uptime": "94.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "82.94%",
-    "uptimeYear": "94.50%",
+    "uptimeYear": "94.66%",
     "time": 332,
-    "timeDay": 426,
-    "timeWeek": 460,
-    "timeMonth": 333,
+    "timeDay": 168,
+    "timeWeek": 371,
+    "timeMonth": 328,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2023-06-11": 1101,
@@ -63,8 +63,7 @@
       "2022-10-20": 1281,
       "2022-09-15": 817,
       "2022-08-28": 28,
-      "2022-08-10": 24,
-      "2022-07-03": 284
+      "2022-08-10": 24
     }
   },
   {
@@ -73,16 +72,16 @@
     "icon": "https://github.com/meeseOS/meeseOS/blob/master/website/src/client/favicon.png",
     "slug": "capture-the-flag",
     "status": "up",
-    "uptime": "95.34%",
+    "uptime": "95.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "82.94%",
-    "uptimeYear": "95.34%",
-    "time": 290,
-    "timeDay": 461,
-    "timeWeek": 338,
-    "timeMonth": 280,
-    "timeYear": 287,
+    "uptimeYear": "95.49%",
+    "time": 289,
+    "timeDay": 184,
+    "timeWeek": 257,
+    "timeMonth": 277,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2023-06-11": 1101,
       "2023-06-10": 1440,
@@ -104,8 +103,7 @@
       "2022-12-15": 1440,
       "2022-12-14": 1354,
       "2022-11-11": 16,
-      "2022-09-15": 817,
-      "2022-07-03": 284
+      "2022-09-15": 817
     }
   },
   {
@@ -114,15 +112,15 @@
     "icon": "https://github.com/meese-enterprises/karameese.com/blob/master/logo.png",
     "slug": "kara-os",
     "status": "up",
-    "uptime": "95.34%",
+    "uptime": "95.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "82.94%",
-    "uptimeYear": "95.33%",
+    "uptimeYear": "95.49%",
     "time": 303,
-    "timeDay": 462,
-    "timeWeek": 369,
-    "timeMonth": 316,
+    "timeDay": 200,
+    "timeWeek": 357,
+    "timeMonth": 312,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2023-06-11": 1101,
@@ -146,8 +144,7 @@
       "2022-12-14": 1354,
       "2022-11-11": 15,
       "2022-10-17": 29,
-      "2022-09-15": 817,
-      "2022-07-03": 283
+      "2022-09-15": 817
     }
   }
 ]
