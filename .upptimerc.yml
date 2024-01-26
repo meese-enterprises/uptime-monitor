@@ -11,10 +11,6 @@ sites:
     url: https://aaronmeese.com
     icon: https://github.com/meeseOS/meeseOS/blob/master/website/src/client/favicon.png
     maxResponseTime: 750
-  - name: KaraOS
-    url: https://karameese.com
-    icon: https://github.com/meese-enterprises/karameese.com/blob/master/logo.png
-    maxResponseTime: 750
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
