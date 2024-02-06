@@ -6,9 +6,9 @@
     "slug": "meese-enterprises",
     "status": "degraded",
     "uptime": "99.58%",
-    "uptimeDay": "34.32%",
-    "uptimeWeek": "90.62%",
-    "uptimeMonth": "91.65%",
+    "uptimeDay": "33.78%",
+    "uptimeWeek": "90.54%",
+    "uptimeMonth": "91.64%",
     "uptimeYear": "99.30%",
     "time": 301,
     "timeDay": 416,
@@ -16,7 +16,7 @@
     "timeMonth": 302,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2024-02-06": 946,
+      "2024-02-06": 954,
       "2024-01-26": 979,
       "2024-01-25": 1440,
       "2024-01-24": 291
