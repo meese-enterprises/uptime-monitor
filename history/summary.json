@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 318,
-    "timeDay": 338,
+    "time": 317,
+    "timeDay": 16,
     "timeWeek": 302,
-    "timeMonth": 308,
+    "timeMonth": 296,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2024-09-18": 17,
@@ -26,15 +26,15 @@
     "icon": "https://github.com/meeseOS/meeseOS/blob/master/website/src/client/favicon.png",
     "slug": "meese-os",
     "status": "up",
-    "uptime": "76.12%",
+    "uptime": "76.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.16%",
+    "uptimeYear": "48.43%",
     "time": 856,
-    "timeDay": 250,
-    "timeWeek": 2345,
-    "timeMonth": 801,
+    "timeDay": 227,
+    "timeWeek": 2351,
+    "timeMonth": 802,
     "timeYear": 967,
     "dailyMinutesDown": {
       "2025-01-19": 1368,
@@ -232,8 +232,7 @@
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
-      "2024-04-08": 1440,
-      "2024-04-07": 1440
+      "2024-04-08": 1440
     }
   }
 ]
