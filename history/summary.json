@@ -5,15 +5,15 @@
     "icon": "https://raw.githubusercontent.com/meese-enterprises/website/master/logo.png",
     "slug": "meese-enterprises",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 316,
-    "timeDay": 294,
-    "timeWeek": 294,
-    "timeMonth": 298,
+    "timeDay": 38,
+    "timeWeek": 235,
+    "timeMonth": 286,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2024-09-18": 17,
@@ -26,16 +26,16 @@
     "icon": "https://github.com/meeseOS/meeseOS/blob/master/website/src/client/favicon.png",
     "slug": "meese-os",
     "status": "up",
-    "uptime": "76.18%",
+    "uptime": "76.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.98%",
+    "uptimeYear": "49.26%",
     "time": 856,
-    "timeDay": 304,
-    "timeWeek": 248,
-    "timeMonth": 808,
-    "timeYear": 958,
+    "timeDay": 232,
+    "timeWeek": 261,
+    "timeMonth": 809,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2025-01-19": 1368,
       "2025-01-18": 182,
@@ -229,8 +229,7 @@
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
-      "2024-04-11": 1440,
-      "2024-04-10": 1440
+      "2024-04-11": 1440
     }
   }
 ]
