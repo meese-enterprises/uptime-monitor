@@ -1,7 +1,7 @@
 url: https://aaronmeese.com
-status: degraded
-code: 522
-responseTime: 19725
-lastUpdated: 2025-07-21T15:41:23.205Z
+status: down
+code: 502
+responseTime: 212
+lastUpdated: 2025-07-21T16:44:37.196Z
 startTime: 2022-06-01T00:55:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
