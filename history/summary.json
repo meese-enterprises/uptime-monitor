@@ -29,17 +29,17 @@
     "url": "https://aaronmeese.com",
     "icon": "https://github.com/meeseOS/meeseOS/blob/master/website/src/client/favicon.png",
     "slug": "meese-os",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "95.82%",
+    "status": "degraded",
+    "uptime": "99.65%",
+    "uptimeDay": "97.54%",
     "uptimeWeek": "97.50%",
     "uptimeMonth": "96.38%",
-    "uptimeYear": "97.87%",
-    "time": 3395,
-    "timeDay": 8811,
-    "timeWeek": 6713,
-    "timeMonth": 8005,
-    "timeYear": 3919,
+    "uptimeYear": "98.73%",
+    "time": 3419,
+    "timeDay": 9863,
+    "timeWeek": 7168,
+    "timeMonth": 8072,
+    "timeYear": 3942,
     "dailyMinutesDown": {
       "2026-01-28": 35,
       "2026-01-27": 25,
@@ -83,12 +83,7 @@
       "2025-06-29": 65,
       "2025-06-16": 676,
       "2025-06-01": 1107,
-      "2025-05-31": 411,
-      "2025-05-20": 71,
-      "2025-05-19": 1440,
-      "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 111
+      "2025-05-31": 411
     }
   }
 ]
