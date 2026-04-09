@@ -35,16 +35,17 @@
     "slug": "meese-os",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "89.94%",
-    "uptimeMonth": "73.56%",
+    "uptimeDay": "93.75%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "73.36%",
     "uptimeYear": "97.27%",
-    "time": 3573,
-    "timeDay": 214,
-    "timeWeek": 2187,
-    "timeMonth": 2471,
-    "timeYear": 4171,
+    "time": 3574,
+    "timeDay": 245,
+    "timeWeek": 2013,
+    "timeMonth": 2443,
+    "timeYear": 4166,
     "dailyMinutesDown": {
+      "2026-04-09": 90,
       "2026-04-02": 1121,
       "2026-04-01": 388,
       "2026-03-31": 238,
@@ -88,7 +89,7 @@
       "2026-01-01": 29,
       "2025-12-29": 24,
       "2025-12-28": 124,
-      "2025-12-27": 322
+      "2025-12-27": 274
     }
   }
 ]
