@@ -4,16 +4,16 @@
     "url": "https://meese.enterprises",
     "icon": "https://raw.githubusercontent.com/meese-enterprises/website/master/logo.png",
     "slug": "meese-enterprises",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
+    "uptimeDay": "96.90%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.87%",
     "time": 454,
-    "timeDay": 3056,
-    "timeWeek": 969,
-    "timeMonth": 473,
+    "timeDay": 2179,
+    "timeWeek": 908,
+    "timeMonth": 471,
     "timeYear": 483,
     "dailyMinutesDown": {
       "2025-09-04": 17,
@@ -23,7 +23,8 @@
       "2026-02-01": 26,
       "2026-02-02": 307,
       "2026-02-04": 40,
-      "2026-02-24": 57
+      "2026-02-24": 57,
+      "2026-07-18": 45
     }
   },
   {
