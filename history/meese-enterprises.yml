@@ -1,7 +1,7 @@
 url: https://meese.enterprises
-status: up
+status: degraded
 code: 200
-responseTime: 61
-lastUpdated: 2026-08-18T23:14:09.388Z
+responseTime: 940
+lastUpdated: 2026-08-19T16:19:02.013Z
 startTime: 2022-06-01T00:55:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
